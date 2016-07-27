@@ -5,6 +5,8 @@ import json
 
 with open('np-200-tracks.json', encoding='utf8') as f:
     tracks = json.load(f)
+with open('mixtape-titles.json', encoding='utf8') as f:
+    titles = json.load(f)
 
 for i, track in enumerate(tracks):
     if 'listens' not in track:
@@ -12,7 +14,9 @@ for i, track in enumerate(tracks):
 
 sorted_tracks = sorted(tracks, key=lambda t: t['listens'], reverse = True)
 top = sorted_tracks[:10]
-print('Views | Artist | Title \n' +
-      '----- | ------ | -----')
+print('Views | Artist | Title | Playlist\n' +
+      '----- | ------ | ----- | --------')
 for t in top:
-    print('{} | {} | {}'.format(t['listens'], t['artist'], t['title']))
+    print('{} | {} | {} | {}'.format(t['listens'], t['artist'], t['title'],
+                                '[{}](http://noonpacific.com/#/mix/{})'.format(titles[str(t['mixtape'])],
+                                                                               t['mixtape'])))

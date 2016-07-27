@@ -25,16 +25,17 @@ counts, are:
 
 Views | Artist | Title | Playlist
 ----- | ------ | ----- | --------
-639024884 | Sam Smith | Stay With Me | NOON // 080
-586249598 | OMI (Felix Jaehn remix) | Cheerleader | NOON // 120
-341701291 | Hozier | Take Me To Church | NOON // 057
-306927123 | Kygo feat. Conrad | Firestone | NOON // 116
-258224025 | Milky Chance | Stolen Dance | NOON // 037
-179808881 | Duke Dumont feat. Jax Jones | I Got U | NOON // 069
-152729868 | Route 94 | My Love | NOON // 082
-152591564 | Duke Dumont | Ocean Drive | NOON // 150
-143373570 | Klingande | Jubel | NOON // 039
-136160266 | Daft Punk feat. Pharrell | Get Lucky | NOON // 032
+639024884 | Sam Smith | Stay With Me | [NOON // 080](http://noonpacific.com/#/mix/158)
+586249598 | OMI (Felix Jaehn remix) | Cheerleader | [NOON // 120](http://noonpacific.com/#/mix/132)
+341701291 | Hozier | Take Me To Church | [NOON // 057](http://noonpacific.com/#/mix/120)
+306927123 | Kygo feat. Conrad | Firestone | [NOON // 116](http://noonpacific.com/#/mix/144)
+258224025 | Milky Chance | Stolen Dance | [NOON // 037](http://noonpacific.com/#/mix/91)
+179808881 | Duke Dumont feat. Jax Jones | I Got U | [NOON // 069](http://noonpacific.com/#/mix/143)
+152729868 | Route 94 | My Love | [NOON // 082](http://noonpacific.com/#/mix/160)
+152591564 | Duke Dumont | Ocean Drive | [NOON // 150](http://noonpacific.com/#/mix/214)
+143373570 | Klingande | Jubel | [NOON // 039](http://noonpacific.com/#/mix/93)
+136160266 | Daft Punk feat. Pharrell | Get Lucky | [NOON // 032](http://noonpacific.com/#/mix/86)
+
 
 The artists with the most appearances on Noon Pacific are:
 
