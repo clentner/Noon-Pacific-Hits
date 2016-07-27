@@ -36,6 +36,7 @@ Views | Artist | Title | Playlist
 [143,373,570](https://youtube.com/watch?v=b6vSf0cA9qY) | Klingande | Jubel | [NOON // 039](http://noonpacific.com/#/mix/93)
 [136,160,266](https://youtube.com/watch?v=h5EofwRzit0) | Daft Punk feat. Pharrell | Get Lucky | [NOON // 032](http://noonpacific.com/#/mix/86)
 
+[Click here for the top 100 list.](top_100.md)
 
 
 The artists with the most appearances on Noon Pacific are:
