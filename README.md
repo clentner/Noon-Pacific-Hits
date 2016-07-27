@@ -36,6 +36,18 @@ Views | Artist | Title
 143370093 | Klingande | Jubel
 136156215 | Daft Punk feat. Pharrell | Get Lucky
 
+The artists with the most appearances on Noon Pacific are:
+
+Appearances | Artist
+----------- | ------
+10 | HONNE
+6 | Wildcat! Wildcat!
+6 | Roosevelt
+6 | Leo Kalyan
+6 | Chet Faker
+6 | Jungle
+6 | Beat Connection
+
 
 Usage
 -----
