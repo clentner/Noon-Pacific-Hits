@@ -17,6 +17,9 @@ top = sorted_tracks[:10]
 print('Views | Artist | Title | Playlist\n' +
       '----- | ------ | ----- | --------')
 for t in top:
-    print('{} | {} | {} | {}'.format(t['listens'], t['artist'], t['title'],
-                                '[{}](http://noonpacific.com/#/mix/{})'.format(titles[str(t['mixtape'])],
-                                                                               t['mixtape'])))
+    print('{} | {} | {} | [{}](http://noonpacific.com/#/mix/{})'.format(
+                                t['listens'],
+                                t['artist'],
+                                t['title'],
+                                titles[str(t['mixtape'])],
+                                t['mixtape']))
