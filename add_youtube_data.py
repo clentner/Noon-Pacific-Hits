@@ -50,12 +50,16 @@ def main():
 
             video_view_count = yt.view_count(video_id)
             
+            # Add the new data to the track
             tracks[i].update({'video_id': video_id,
                               'video_title': video_title,
                               'listens': video_view_count})
-            print(video_title)
+            print(video_title) # Just for progress monitoring
                               
         except requests.exceptions.HTTPError as e:
+            # A server-side error from the API
+            # Just eat these errors if they occur. There are too many
+            # songs to analyze to worry about one missing track.
             print(str(e))
             continue
             
