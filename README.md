@@ -51,6 +51,7 @@ Appearances | Artist
 
 Usage
 -----
+* You can use the pre-generated np-200-tracks.json file, or:
 * You will need a [YouTube API key](https://developers.google.com/youtube/v3/getting-started).
 Note: This program will use about 200K of your 1M daily quota.
 * Set the environment variable YOUTUBE-API-KEY to the key
