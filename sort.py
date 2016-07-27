@@ -17,7 +17,7 @@ top = sorted_tracks[:10]
 print('Views | Artist | Title | Playlist\n' +
       '----- | ------ | ----- | --------')
 for t in top:
-    table_row = '[{}](https://youtube.com/watch?v={}) | {} | {} | [{}](http://noonpacific.com/#/mix/{})'.format(
+    table_row = '[{:,}](https://youtube.com/watch?v={}) | {} | {} | [{}](http://noonpacific.com/#/mix/{})'.format(
         t['listens'],
         t['video_id'],
         t['artist'],
