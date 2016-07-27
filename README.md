@@ -23,18 +23,18 @@ Results
 The top 10 songs to have appeared on Noon Pacific, ordered by YouTube view
 counts, are:
 
-Views | Artist | Title 
------ | ------ | -----
-638994836 | Sam Smith | Stay With Me
-586208300 | OMI (Felix Jaehn remix) | Cheerleader
-341689430 | Hozier | Take Me To Church
-306892953 | Kygo feat. Conrad | Firestone
-258213254 | Milky Chance | Stolen Dance
-179799325 | Duke Dumont feat. Jax Jones | I Got U
-152719526 | Route 94 | My Love
-152557489 | Duke Dumont | Ocean Drive
-143370093 | Klingande | Jubel
-136156215 | Daft Punk feat. Pharrell | Get Lucky
+Views | Artist | Title | Playlist
+----- | ------ | ----- | --------
+639024884 | Sam Smith | Stay With Me | NOON // 080
+586249598 | OMI (Felix Jaehn remix) | Cheerleader | NOON // 120
+341701291 | Hozier | Take Me To Church | NOON // 057
+306927123 | Kygo feat. Conrad | Firestone | NOON // 116
+258224025 | Milky Chance | Stolen Dance | NOON // 037
+179808881 | Duke Dumont feat. Jax Jones | I Got U | NOON // 069
+152729868 | Route 94 | My Love | NOON // 082
+152591564 | Duke Dumont | Ocean Drive | NOON // 150
+143373570 | Klingande | Jubel | NOON // 039
+136160266 | Daft Punk feat. Pharrell | Get Lucky | NOON // 032
 
 The artists with the most appearances on Noon Pacific are:
 
