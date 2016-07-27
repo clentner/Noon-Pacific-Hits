@@ -1,3 +1,12 @@
+'''
+Quick wrapper around the relevant parts of the YouTube API.
+Provides methods for searching videos and retrieving statistics.
+
+Methods will raise requests.exceptions.HTTPError on 4xx and 5xx
+status codes. Methods that require a video id will raise IndexError
+if it is bad (does not refer to a valid video).
+'''
+
 import json
 import os
 import requests
