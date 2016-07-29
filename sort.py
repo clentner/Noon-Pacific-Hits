@@ -5,8 +5,13 @@ import json
 
 with open('np-200-tracks.json', encoding='utf8') as f:
     tracks = json.load(f)
-with open('mixtape-titles.json', encoding='utf8') as f:
-    titles = json.load(f)
+
+with open('np-200.json', encoding='utf8') as f:
+    npdata = json.load(f) # list of dicts containing lists of dicts
+
+titles = {}
+for mix in npdata:
+    titles[str(mix['id'])] = mix['title']
 
 for i, track in enumerate(tracks):
     if 'listens' not in track:
