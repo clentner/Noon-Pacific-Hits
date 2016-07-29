@@ -5,6 +5,9 @@ import json
 import sys
 
 def sorted_tracks(tracks):
+    '''
+    Takes a track list and sorts it by number of listens.
+    '''
     for i, track in enumerate(tracks):
         if 'listens' not in track:
             tracks[i]['listens'] = 0
@@ -12,6 +15,12 @@ def sorted_tracks(tracks):
     return sorted(tracks, key=lambda t: t['listens'], reverse = True)
 
 def markdown_tracklist(top, npdata, rank_column = False):
+    '''
+    Takes a (sorted and/or truncated) track list and generates a markdown table.
+    @param top the track list
+    @param npdata the noon pacific data, loaded with json.load
+    @param rank_column whether or not to include a numbering column on the left
+    '''
     mixtapes = {}
     for mix in npdata:
         mixtapes[mix['id']] = mix
