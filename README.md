@@ -25,16 +25,17 @@ counts, are:
 
 Views | Artist | Title | Playlist
 ----- | ------ | ----- | --------
-[639,024,884](https://youtube.com/watch?v=pB-5XG-DbAA) | Sam Smith | Stay With Me | [NOON // 080](http://noonpacific.com/#/mix/158)
-[586,249,598](https://youtube.com/watch?v=jGflUbPQfW8) | OMI (Felix Jaehn remix) | Cheerleader | [NOON // 120](http://noonpacific.com/#/mix/132)
-[341,701,291](https://youtube.com/watch?v=MYSVMgRr6pw) | Hozier | Take Me To Church | [NOON // 057](http://noonpacific.com/#/mix/120)
-[306,927,123](https://youtube.com/watch?v=9Sc-ir2UwGU) | Kygo feat. Conrad | Firestone | [NOON // 116](http://noonpacific.com/#/mix/144)
-[258,224,025](https://youtube.com/watch?v=iX-QaNzd-0Y) | Milky Chance | Stolen Dance | [NOON // 037](http://noonpacific.com/#/mix/91)
-[179,808,881](https://youtube.com/watch?v=FHCYHldJi_g) | Duke Dumont feat. Jax Jones | I Got U | [NOON // 069](http://noonpacific.com/#/mix/143)
-[152,729,868](https://youtube.com/watch?v=BS46C2z5lVE) | Route 94 | My Love | [NOON // 082](http://noonpacific.com/#/mix/160)
-[152,591,564](https://youtube.com/watch?v=KDxJlW6cxRk) | Duke Dumont | Ocean Drive | [NOON // 150](http://noonpacific.com/#/mix/214)
-[143,373,570](https://youtube.com/watch?v=b6vSf0cA9qY) | Klingande | Jubel | [NOON // 039](http://noonpacific.com/#/mix/93)
-[136,160,266](https://youtube.com/watch?v=h5EofwRzit0) | Daft Punk feat. Pharrell | Get Lucky | [NOON // 032](http://noonpacific.com/#/mix/86)
+[639,024,884](https://youtube.com/watch?v=pB-5XG-DbAA) | Sam Smith | Stay With Me | [NOON // 080](http://beta.noonpacific.com/#/weekly/noon-080/sam-smith-stay-with-me)
+[586,249,598](https://youtube.com/watch?v=jGflUbPQfW8) | OMI (Felix Jaehn remix) | Cheerleader | [NOON // 120](http://beta.noonpacific.com/#/weekly/noon-120/omi-felix-jaehn-remix-cheerleader)
+[341,701,291](https://youtube.com/watch?v=MYSVMgRr6pw) | Hozier | Take Me To Church | [NOON // 057](http://beta.noonpacific.com/#/weekly/noon-057/hozier-take-me-to-church)
+[306,927,123](https://youtube.com/watch?v=9Sc-ir2UwGU) | Kygo feat. Conrad | Firestone | [NOON // 116](http://beta.noonpacific.com/#/weekly/noon-116/kygo-feat-conrad-firestone)
+[258,224,025](https://youtube.com/watch?v=iX-QaNzd-0Y) | Milky Chance | Stolen Dance | [NOON // 037](http://beta.noonpacific.com/#/weekly/noon-037/milky-chance-stolen-dance)
+[179,808,881](https://youtube.com/watch?v=FHCYHldJi_g) | Duke Dumont feat. Jax Jones | I Got U | [NOON // 069](http://beta.noonpacific.com/#/weekly/noon-069/duke-dumont-feat-jax-jones-i-got-u)
+[152,729,868](https://youtube.com/watch?v=BS46C2z5lVE) | Route 94 | My Love | [NOON // 082](http://beta.noonpacific.com/#/weekly/noon-082/route-94-my-love)
+[152,591,564](https://youtube.com/watch?v=KDxJlW6cxRk) | Duke Dumont | Ocean Drive | [NOON // 150](http://beta.noonpacific.com/#/weekly/noon-150/duke-dumont-ocean-drive)
+[143,373,570](https://youtube.com/watch?v=b6vSf0cA9qY) | Klingande | Jubel | [NOON // 039](http://beta.noonpacific.com/#/weekly/noon-039/klingande-jubel)
+[136,160,266](https://youtube.com/watch?v=h5EofwRzit0) | Daft Punk feat. Pharrell | Get Lucky | [NOON // 032](http://beta.noonpacific.com/#/weekly/noon-032/daft-punk-feat-pharrell-get-lucky)
+
 
 [Click here for the top 100 list.](top_100.md)
 

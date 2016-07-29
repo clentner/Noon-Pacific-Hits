@@ -11,15 +11,21 @@ def sorted_tracks(tracks):
 
     return sorted(tracks, key=lambda t: t['listens'], reverse = True)
 
-def markdown_tracklist(top, npdata):
+def markdown_tracklist(top, npdata, rank_column = False):
     mixtapes = {}
     for mix in npdata:
         mixtapes[mix['id']] = mix
         
-    markdown = ('Views | Artist | Title | Playlist\n' +
-                '----- | ------ | ----- | --------\n')
-    for t in top:
-        table_row = '[{:,}](https://youtube.com/watch?v={}) | {} | {} | [{}](http://beta.noonpacific.com/#/weekly/{}/{})'.format(
+    if rank_column:
+        markdown = ('Rank | Views | Artist | Title | Playlist\n' +
+                    '---- | ----- | ------ | ----- | --------\n')
+    else:
+        markdown = ('Views | Artist | Title | Playlist\n' +
+                    '----- | ------ | ----- | --------\n')
+    
+    for i, t in enumerate(top):
+        table_row = '{}[{:,}](https://youtube.com/watch?v={}) | {} | {} | [{}](http://beta.noonpacific.com/#/weekly/{}/{})'.format(
+            ((str(1 + i) + ' | ') if rank_column else ''),
             t['listens'],
             t['video_id'],
             t['artist'],
