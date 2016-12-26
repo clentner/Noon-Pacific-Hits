@@ -23,18 +23,20 @@ Results
 The top 10 songs to have appeared on Noon Pacific, ordered by YouTube view
 counts, are:
 
-Views | Artist | Title | Playlist
+Views | Artist | Title | Hipsterness | Playlist
 ----- | ------ | ----- | --------
-[639,024,884](https://youtube.com/watch?v=pB-5XG-DbAA) | Sam Smith | Stay With Me | [NOON // 080](http://beta.noonpacific.com/#/weekly/noon-080/sam-smith-stay-with-me)
-[586,249,598](https://youtube.com/watch?v=jGflUbPQfW8) | OMI (Felix Jaehn remix) | Cheerleader | [NOON // 120](http://beta.noonpacific.com/#/weekly/noon-120/omi-felix-jaehn-remix-cheerleader)
-[341,701,291](https://youtube.com/watch?v=MYSVMgRr6pw) | Hozier | Take Me To Church | [NOON // 057](http://beta.noonpacific.com/#/weekly/noon-057/hozier-take-me-to-church)
-[306,927,123](https://youtube.com/watch?v=9Sc-ir2UwGU) | Kygo feat. Conrad | Firestone | [NOON // 116](http://beta.noonpacific.com/#/weekly/noon-116/kygo-feat-conrad-firestone)
-[258,224,025](https://youtube.com/watch?v=iX-QaNzd-0Y) | Milky Chance | Stolen Dance | [NOON // 037](http://beta.noonpacific.com/#/weekly/noon-037/milky-chance-stolen-dance)
-[179,808,881](https://youtube.com/watch?v=FHCYHldJi_g) | Duke Dumont feat. Jax Jones | I Got U | [NOON // 069](http://beta.noonpacific.com/#/weekly/noon-069/duke-dumont-feat-jax-jones-i-got-u)
-[152,729,868](https://youtube.com/watch?v=BS46C2z5lVE) | Route 94 | My Love | [NOON // 082](http://beta.noonpacific.com/#/weekly/noon-082/route-94-my-love)
-[152,591,564](https://youtube.com/watch?v=KDxJlW6cxRk) | Duke Dumont | Ocean Drive | [NOON // 150](http://beta.noonpacific.com/#/weekly/noon-150/duke-dumont-ocean-drive)
-[143,373,570](https://youtube.com/watch?v=b6vSf0cA9qY) | Klingande | Jubel | [NOON // 039](http://beta.noonpacific.com/#/weekly/noon-039/klingande-jubel)
-[136,160,266](https://youtube.com/watch?v=h5EofwRzit0) | Daft Punk feat. Pharrell | Get Lucky | [NOON // 032](http://beta.noonpacific.com/#/weekly/noon-032/daft-punk-feat-pharrell-get-lucky)
+[689,153,621](https://youtube.com/watch?v=pB-5XG-DbAA) | Sam Smith | Stay With Me | 3 days after YouTube release | [NOON // 080](http://noonpacific.com/#/weekly/noon-080/sam-smith-stay-with-me)
+[669,193,626](https://youtube.com/watch?v=jGflUbPQfW8) | OMI (Felix Jaehn remix) | Cheerleader | 93 days before YouTube release | [NOON // 120](http://noonpacific.com/#/weekly/noon-120/omi-felix-jaehn-remix-cheerleader)
+[423,652,045](https://youtube.com/watch?v=tD4HCZe-tew) | LA+CH | Hi-Life | 247 days before YouTube release | [NOON // 110](http://noonpacific.com/#/weekly/noon-110/la-ch-hi-life)
+[384,760,028](https://youtube.com/watch?v=9Sc-ir2UwGU) | Kygo feat. Conrad | Firestone | 91 days before YouTube release | [NOON // 116](http://noonpacific.com/#/weekly/noon-116/kygo-feat-conrad-firestone)
+[362,597,189](https://youtube.com/watch?v=MYSVMgRr6pw) | Hozier | Take Me To Church | 19 days after YouTube release | [NOON // 057](http://noonpacific.com/#/weekly/noon-057/hozier-take-me-to-church)
+[285,173,318](https://youtube.com/watch?v=iX-QaNzd-0Y) | Milky Chance | Stolen Dance | 53 days after YouTube release | [NOON // 037](http://noonpacific.com/#/weekly/noon-037/milky-chance-stolen-dance)
+[267,886,817](https://youtube.com/watch?v=5NV6Rdv1a3I) | Daft Punk feat. Pharrell | Get Lucky | 4 days before YouTube release | [NOON // 032](http://noonpacific.com/#/weekly/noon-032/daft-punk-feat-pharrell-get-lucky)
+[217,088,879](https://youtube.com/watch?v=KDxJlW6cxRk) | Duke Dumont | Ocean Drive | 43 days before YouTube release | [NOON // 150](http://noonpacific.com/#/weekly/noon-150/duke-dumont-ocean-drive)
+[202,308,478](https://youtube.com/watch?v=FHCYHldJi_g) | Duke Dumont feat. Jax Jones | I Got U | 37 days before YouTube release | [NOON // 069](http://noonpacific.com/#/weekly/noon-069/duke-dumont-feat-jax-jones-i-got-u)
+[176,056,939](https://youtube.com/watch?v=BS46C2z5lVE) | Route 94 | My Love | 77 days after YouTube release | [NOON // 082](http://noonpacific.com/#/weekly/noon-082/route-94-my-love)
+
+
 
 
 [Click here for the top 100 list.](top_100.md)

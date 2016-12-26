@@ -28,7 +28,10 @@ def main():
     # Aggregate all the tracks into one list
     tracks = []
     for mixtape in npdata:
-        tracks.extend(mixtape['tracks'])
+        tape_tracks = mixtape['tracks']
+        for track in tape_tracks:
+            track['np_release'] = mixtape['release']
+        tracks.extend(tape_tracks)
 
     # Add youtube plays to each track's data
     yt = YouTube()
@@ -39,20 +42,25 @@ def main():
                 continue
             if track['id'] in corrected_video_id:
                 video_id = corrected_video_id[track['id']]
-                video_title = yt.title(video_id)
+                snippet = yt.snippet(video_id)
+                s = snippet['items'][0]['snippet']
             else:
                 q = track['artist'] + ' ' + track['title']
                 result = yt.search_first(q)
                 if not result:  # No video found
                     continue
+                s = result['snippet']
                 video_id = result['id']['videoId']
-                video_title = result['snippet']['title']
+
+            video_title = s['title']
+            video_date = s['publishedAt']
 
             video_view_count = yt.view_count(video_id)
             
             # Add the new data to the track
             tracks[i].update({'video_id': video_id,
                               'video_title': video_title,
+                              'video_date': video_date,
                               'listens': video_view_count})
             print(video_title) # Just for progress monitoring
                               

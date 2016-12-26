@@ -3,6 +3,7 @@ Print a markdown table of the top tracks by YouTube view count.
 '''
 import json
 import sys
+import datetime
 
 def sorted_tracks(tracks):
     '''
@@ -13,6 +14,9 @@ def sorted_tracks(tracks):
             tracks[i]['listens'] = 0
 
     return sorted(tracks, key=lambda t: t['listens'], reverse = True)
+    
+def iso8601toDate(st):
+    return datetime.datetime.strptime(st[:st.find('T')], '%Y-%m-%d').date()
 
 def markdown_tracklist(top, npdata, rank_column = False):
     '''
@@ -26,19 +30,25 @@ def markdown_tracklist(top, npdata, rank_column = False):
         mixtapes[mix['id']] = mix
         
     if rank_column:
-        markdown = ('Rank | Views | Artist | Title | Playlist\n' +
+        markdown = ('Rank | Views | Artist | Title | Hipsterness | Playlist\n' +
                     '---- | ----- | ------ | ----- | --------\n')
     else:
-        markdown = ('Views | Artist | Title | Playlist\n' +
+        markdown = ('Views | Artist | Title | Hipsterness | Playlist\n' +
                     '----- | ------ | ----- | --------\n')
     
     for i, t in enumerate(top):
-        table_row = '{}[{:,}](https://youtube.com/watch?v={}) | {} | {} | [{}](http://beta.noonpacific.com/#/weekly/{}/{})'.format(
+        date_diff = (iso8601toDate(t['np_release']) - iso8601toDate(t['video_date'])).days
+        if date_diff < 0:
+            date_string = "{} days before YouTube release".format(-1 * date_diff)
+        else:
+            date_string = "{} days after YouTube release".format(date_diff)
+        table_row = '{}[{:,}](https://youtube.com/watch?v={}) | {} | {} | {} | [{}](http://noonpacific.com/#/weekly/{}/{})'.format(
             ((str(1 + i) + ' | ') if rank_column else ''),
             t['listens'],
             t['video_id'],
             t['artist'],
             t['title'],
+            date_string,
             mixtapes[t['mixtape']]['title'],
             mixtapes[t['mixtape']]['slug'],
             t['slug'])
