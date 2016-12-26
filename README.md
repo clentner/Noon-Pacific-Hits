@@ -24,7 +24,7 @@ The top 10 songs to have appeared on Noon Pacific, ordered by YouTube view
 counts, are:
 
 Views | Artist | Title | Hipsterness | Playlist
------ | ------ | ----- | --------
+----- | ------ | ----- | ----------- | --------
 [689,153,621](https://youtube.com/watch?v=pB-5XG-DbAA) | Sam Smith | Stay With Me | 3 days after YouTube release | [NOON // 080](http://noonpacific.com/#/weekly/noon-080/sam-smith-stay-with-me)
 [669,193,626](https://youtube.com/watch?v=jGflUbPQfW8) | OMI (Felix Jaehn remix) | Cheerleader | 93 days before YouTube release | [NOON // 120](http://noonpacific.com/#/weekly/noon-120/omi-felix-jaehn-remix-cheerleader)
 [423,652,045](https://youtube.com/watch?v=tD4HCZe-tew) | LA+CH | Hi-Life | 247 days before YouTube release | [NOON // 110](http://noonpacific.com/#/weekly/noon-110/la-ch-hi-life)
@@ -35,8 +35,6 @@ Views | Artist | Title | Hipsterness | Playlist
 [217,088,879](https://youtube.com/watch?v=KDxJlW6cxRk) | Duke Dumont | Ocean Drive | 43 days before YouTube release | [NOON // 150](http://noonpacific.com/#/weekly/noon-150/duke-dumont-ocean-drive)
 [202,308,478](https://youtube.com/watch?v=FHCYHldJi_g) | Duke Dumont feat. Jax Jones | I Got U | 37 days before YouTube release | [NOON // 069](http://noonpacific.com/#/weekly/noon-069/duke-dumont-feat-jax-jones-i-got-u)
 [176,056,939](https://youtube.com/watch?v=BS46C2z5lVE) | Route 94 | My Love | 77 days after YouTube release | [NOON // 082](http://noonpacific.com/#/weekly/noon-082/route-94-my-love)
-
-
 
 
 [Click here for the top 100 list.](top_100.md)

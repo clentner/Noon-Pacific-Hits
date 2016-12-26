@@ -31,10 +31,10 @@ def markdown_tracklist(top, npdata, rank_column = False):
         
     if rank_column:
         markdown = ('Rank | Views | Artist | Title | Hipsterness | Playlist\n' +
-                    '---- | ----- | ------ | ----- | --------\n')
+                    '---- | ----- | ------ | ----- | ----------- | --------\n')
     else:
         markdown = ('Views | Artist | Title | Hipsterness | Playlist\n' +
-                    '----- | ------ | ----- | --------\n')
+                    '----- | ------ | ----- | ----------- | --------\n')
     
     for i, t in enumerate(top):
         date_diff = (iso8601toDate(t['np_release']) - iso8601toDate(t['video_date'])).days
